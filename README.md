@@ -1,6 +1,6 @@
 # 👨‍💻 Tonmoy Majumder
 
-**`Information Engineering Student | Mobile Developer | Data Science Enthusiast`**
+**`Information Engineering Student | Mobile Application Developer | Data Science Enthusiast`**
 
 I'm pursuing my Bachelor's Degree at **HAW Hamburg**, where I'm building a strong foundation in software and hardware development, and data science. My journey in tech has led me to develop mobile applications and work with various programming languages and tools. I'm passionate about leveraging technology to solve real-world problems, and I'm constantly expanding my knowledge in areas like data science, machine learning, and AI.
 
