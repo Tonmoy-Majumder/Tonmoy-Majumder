@@ -1,8 +1,8 @@
 # 👨‍💻 Tonmoy Majumder
 
-**`Information Engineering Student | Mobile Application Developer | Data Science Enthusiast`**
+**`Information Engineering Student | Junior Data Engineer | Mobile Application Developer | Data Science Enthusiast`**
 
-I'm pursuing my Bachelor's Degree at **HAW Hamburg**, where I'm building a strong foundation in software and hardware development, and data science. My journey in tech has led me to develop mobile applications and work with various programming languages and tools. I'm passionate about leveraging technology to solve real-world problems, and I'm constantly expanding my knowledge in areas like data science, machine learning, and AI.
+I’m currently pursuing my Bachelor's Degree at **HAW Hamburg**, where I’m building a strong foundation in software development, hardware, and data engineering. My journey in tech has involved building ETL pipelines, data modeling, developing mobile applications, and working with various programming languages and tools. I’m passionate about leveraging technology to solve real-world problems and continuously expanding my expertise in data science, machine learning, and AI.
 
 <p align="left">
    <a href="https://www.linkedin.com/in/tonmoy-majumder00">
@@ -14,22 +14,28 @@ I'm pursuing my Bachelor's Degree at **HAW Hamburg**, where I'm building a stron
 ---
 
 ### 🧰 Languages and Tools
-
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
 <img align="left" alt="XML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg"/>
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
+<img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<br></br>
+
+#### 📊 Data & AI
+<p><img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+<img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"/>
-<br />
+<img align="left" alt="Tableau" width="90px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png"/>
+<img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
+<img align="left" alt="BigQuery" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg"/>
+<img align="left" alt="GCP" width="30px" style="padding-right:10px; "src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" /> </p>
 
 
 ---
@@ -40,9 +46,10 @@ I'm currently diving deep into the world of **Data Science**, **Machine Learning
 
 ### 🌱 My Journey
 
-- 📱 **Mobile Development**: I've developed several Android applications, working through every step from planning and design to implementation.
-- 💻 **Programming**: I have experience with Python, Java, C, and more, applying these languages in both academic and personal projects.
-- 📊 **Data Enthusiast**: Currently, I'm exploring the realms of data science, machine learning, and AI, working on projects that involve data analysis, predictive modeling, and AI-driven applications.
+- 🚀 **Junior Data Engineer**: Currently working as a Junior Data Engineer, building and maintaining data pipelines, automating data workflows, and supporting data-driven decision-making.
+- 📱 **Mobile Development**: Developed several Android applications, handling everything from planning and design to full implementation.
+- 💻 **Programming**: Experienced with Python, Java, C, and more—applied across academic, personal, and professional projects.
+- 📊 **Data Enthusiast**: Actively deepening my expertise in data science, machine learning, and AI through hands-on projects involving data analysis, predictive modeling, and intelligent systems.
 
 ---
 
